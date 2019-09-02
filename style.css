@@ -37,3 +37,8 @@ h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 25px;
 }
+h2{
+    text-shadow: 1px 1px 0px white;
+    background-color: #f9f5f67d;
+    font-size: 2em;
+}
